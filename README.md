@@ -2,7 +2,7 @@
 
 > **Specialization:** Applied Optical & Embedded Hardware · High-Throughput MLOps Inference · Local-First Knowledge & Agent Architectures  
 > **Location:** Helsinki, Finland  
-> **Links:** [LinkedIn](https://linkedin.com) · [GitHub](https://github.com) · [Email](mailto:your-email@example.com)
+> **Links:** [LinkedIn](https://www.linkedin.com/in/alexei-kramm/) · [Email](mailto:alexei.kramm@gmail.com)
 
 ---
 
